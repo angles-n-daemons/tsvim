@@ -37,11 +37,14 @@ Below are keybindings unique to tsvim.
 | Keys    | Action       |
 | ------- | --------------- |
 | \<C-s\>   | Save file    |
+| gd      | Goto definiton |
+| gr      | Goto usages |
+| K      | Show Documentation |
+| \<Tab\>     | Select autocompletion |
+| \<space\>ca | Code action |
 | \<space\>xx | Show warnings |
 | ]d      | Next warning |
 | [d      | Prev Warning |
-| K      | Show Documentation |
-| \<Tab\>     | Select autocompletion |
 
 ### navigation
 | Keys    | Action       |
@@ -83,3 +86,9 @@ Below are keybindings unique to tsvim.
 | u | Step Up |
 | d | Step Down |
 | t | Terminate Debugger |
+
+### terminal
+| Keys    | Action       |
+| ------- | ------------------ |
+| \<C-t\> | Open Terminal |
+| \<Space-rt\> | Start REPL |
