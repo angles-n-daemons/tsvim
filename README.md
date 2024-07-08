@@ -36,7 +36,7 @@ Below are keybindings specifically configured for tsvim.
 ### editing
 | Keys    | Action       |
 | ------- | --------------- |
-| <C-s>   | Save file    |
+| \<C-s\>   | Save file    |
 | <space>xx | Show warnings |
 | ]d      | Next warning |
 | [d      | Prev Warning |
