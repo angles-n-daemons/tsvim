@@ -13,11 +13,11 @@ Then, copy this repository to ~/.config/tsvim:
 
 Lastly, you can create an alias for initializing tsvim:
 
-`echo alias tsvim=\'NVIM_APPNAME=tsvim nvim\' \>\> ~/.bashrc`
+`echo alias tsvim=\'NVIM_APPNAME=tsvim nvim\' >> ~/.bashrc`
 
 if you use bash, or if you use zsh:
 
-`echo alias tsvim=\'NVIM_APPNAME=tsvim nvim\' \>\> ~/.zshrc`
+`echo alias tsvim=\'NVIM_APPNAME=tsvim nvim\' >> ~/.zshrc`
 
 or if you use fsh,
 
