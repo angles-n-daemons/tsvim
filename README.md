@@ -64,6 +64,7 @@ Below are keybindings unique to tsvim.
 | \<Space\>ts | Show test summary |
 | \<Space\>tf | Run tests in file |
 | \<Space\>tp | Run tests in project |
+| \<Space\>td | Debug test closest to cursor |
 
 ### debugging
 
